@@ -3,3 +3,5 @@
 /dev/
 /.vscode
 .ipynb_checkpoints/
+
+*.xlsx
